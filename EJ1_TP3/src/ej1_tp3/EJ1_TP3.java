@@ -26,6 +26,8 @@ public class EJ1_TP3 {
             System.out.println("Contador = " + contador);
         }
         
+        System.out.println(" Fin de programa");
+        
     }
     
 }
